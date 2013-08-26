@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("DLL_Version_Checker")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Ulysses Systems")]
+[assembly: AssemblyCompany("Cosmos")]
 [assembly: AssemblyProduct("DLL_Version_Checker")]
-[assembly: AssemblyCopyright("Copyright © Ulysses Systems 2013")]
+[assembly: AssemblyCopyright("Copyright © Cosmos 2013")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
